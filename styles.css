@@ -1,0 +1,8 @@
+.btn:hover {
+  transition: ease-in-out 300ms;
+  color: white;
+  background-color: grey;
+}
+.wrapper {
+  height: 100vh;
+}
